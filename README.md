@@ -61,3 +61,15 @@ from solution import Solution
 sol = Solution()
 print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+<!---LeetCode Topics End-->
