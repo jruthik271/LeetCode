@@ -1,6 +1,24 @@
 import os
 import re
 
+TOPIC_NORMALIZATION = {
+    "arrays": "Array",
+    "array": "Array",
+    "strings": "String",
+    "string": "String",
+    "hash tables": "Hash Table",
+    "hash table": "Hash Table",
+    "two pointers": "Two Pointers",
+    "two pointer": "Two Pointers",
+}
+
+def normalize_topic(topic):
+    t = topic.strip()
+    if not t or t.upper() in ("N/A", "UNKNOWN"):
+        return ""
+    t_lower = t.lower()
+    return TOPIC_NORMALIZATION.get(t_lower, t.title())
+
 def parse_existing_categories(readme_path):
     categories = {}
     if not os.path.exists(readme_path):
@@ -25,6 +43,41 @@ def parse_existing_categories(readme_path):
                 categories[problem_id] = category
                 
     return categories
+
+def parse_existing_topics(readme_path):
+    problem_topics = {}
+    if not os.path.exists(readme_path):
+        return problem_topics
+        
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+        
+    match = re.search(r"<!-{2,3}LeetCode Topics Start-->(.*?)<!-{2,3}LeetCode Topics End-->", content, re.DOTALL)
+    if not match:
+        return problem_topics
+        
+    topics_content = match.group(1)
+    current_topic = None
+    
+    for line in topics_content.splitlines():
+        line = line.strip()
+        if line.startswith("## "):
+            current_topic = line[3:].strip()
+        elif line.startswith("|") and current_topic:
+            if "---" in line or "Problem Name" in line:
+                continue
+            parts = [p.strip() for p in line.split("|")[1:-1]]
+            if len(parts) >= 1:
+                prob_link = parts[0]
+                # Match [0223-rectangle-area](...)
+                m = re.match(r"\[(\d+)-[^\]]+\]", prob_link)
+                if m:
+                    problem_id = m.group(1)
+                    if problem_id not in problem_topics:
+                        problem_topics[problem_id] = set()
+                    problem_topics[problem_id].add(current_topic)
+                    
+    return problem_topics
 
 def guess_category(py_file_path):
     if not os.path.exists(py_file_path):
@@ -53,6 +106,7 @@ def guess_category(py_file_path):
 def update_readme():
     readme_path = "README.md"
     existing_categories = parse_existing_categories(readme_path)
+    existing_topics = parse_existing_topics(readme_path)
     
     problems = []
     
@@ -90,12 +144,36 @@ def update_readme():
                     py_file = sub_entry.name
                     break
             
-            # Determine Category
-            category = existing_categories.get(problem_id)
-            if not category:
+            # Determine Category / Topics
+            topics = set()
+            
+            # 1. Check existing categories table
+            category_str = existing_categories.get(problem_id, "")
+            if category_str:
+                for t in category_str.split(","):
+                    t_norm = normalize_topic(t)
+                    if t_norm:
+                        topics.add(t_norm)
+            
+            # 2. Check existing topics section
+            extra_topics = existing_topics.get(problem_id, set())
+            for t in extra_topics:
+                t_norm = normalize_topic(t)
+                if t_norm:
+                    topics.add(t_norm)
+            
+            # 3. Fallback: guess category
+            if not topics:
                 py_path = os.path.join(folder_name, py_file) if py_file else ""
-                category = guess_category(py_path)
-                
+                guessed = guess_category(py_path)
+                for t in guessed.split(","):
+                    t_norm = normalize_topic(t)
+                    if t_norm:
+                        topics.add(t_norm)
+            
+            # Join topics sorted alphabetically
+            category = ", ".join(sorted(list(topics))) if topics else "Unknown"
+            
             problems.append({
                 "id": problem_id,
                 "title": title,
@@ -130,6 +208,32 @@ def update_readme():
         
     table_str = "\n".join(table_lines)
     
+    # Group problems by topic
+    topic_to_problems = {}
+    for p in problems:
+        p_topics = [t.strip() for t in p["category"].split(",") if t.strip()]
+        for t in p_topics:
+            if t not in topic_to_problems:
+                topic_to_problems[t] = []
+            topic_to_problems[t].append(p)
+            
+    topic_lines = [
+        "# LeetCode Topics"
+    ]
+    for topic in sorted(topic_to_problems.keys()):
+        topic_lines.append(f"## {topic}")
+        topic_lines.append("| Problem Name | Difficulty |")
+        topic_lines.append("| ------- | ------- |")
+        
+        # Sort problems under this topic by ID
+        sorted_probs = sorted(topic_to_problems[topic], key=lambda x: int(x["id"]))
+        for p in sorted_probs:
+            link = f"[{p['folder']}](https://github.com/jruthik271/LeetCode/tree/main/{p['folder']}/)"
+            diff = p["difficulty"].replace("🟢", "").replace("🟡", "").replace("🔴", "").strip().title()
+            topic_lines.append(f"| {link} | {diff} |")
+            
+    topics_str = "\n".join(topic_lines)
+    
     # Write back to README.md
     if os.path.exists(readme_path):
         with open(readme_path, "r", encoding="utf-8") as f:
@@ -139,6 +243,13 @@ def update_readme():
             r"(<!-- SOLUTIONS_START -->).*?(<!-- SOLUTIONS_END -->)",
             f"\\1\n{table_str}\n\\2",
             readme_content,
+            flags=re.DOTALL
+        )
+        
+        new_content = re.sub(
+            r"(<!-{2,3}LeetCode Topics Start-->).*?(<!-{2,3}LeetCode Topics End-->)",
+            f"\\1\n{topics_str}\n\\2",
+            new_content,
             flags=re.DOTALL
         )
         
