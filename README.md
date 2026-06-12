@@ -72,6 +72,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0001-two-sum](https://github.com/jruthik271/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/jruthik271/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jruthik271/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jruthik271/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jruthik271/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -87,6 +88,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jruthik271/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jruthik271/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
