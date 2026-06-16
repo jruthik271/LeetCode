@@ -139,6 +139,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/jruthik271/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/jruthik271/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jruthik271/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
@@ -154,6 +155,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jruthik271/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jruthik271/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jruthik271/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/jruthik271/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/jruthik271/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
