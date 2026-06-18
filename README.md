@@ -123,6 +123,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0066-plus-one](https://github.com/jruthik271/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/jruthik271/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/jruthik271/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jruthik271/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/jruthik271/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Prefix Sum
