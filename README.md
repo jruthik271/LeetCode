@@ -74,6 +74,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jruthik271/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/jruthik271/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jruthik271/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jruthik271/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jruthik271/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -129,6 +130,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/jruthik271/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/jruthik271/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Set
 | Problem Name | Difficulty |
