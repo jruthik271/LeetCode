@@ -76,6 +76,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/jruthik271/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jruthik271/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jruthik271/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jruthik271/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jruthik271/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -104,6 +105,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jruthik271/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jruthik271/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jruthik271/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -151,6 +153,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jruthik271/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jruthik271/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
@@ -177,4 +180,8 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jruthik271/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
