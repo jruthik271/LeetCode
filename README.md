@@ -144,6 +144,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/jruthik271/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/jruthik271/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -160,6 +161,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/jruthik271/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/jruthik271/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jruthik271/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
