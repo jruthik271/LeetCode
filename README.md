@@ -96,6 +96,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/jruthik271/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jruthik271/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0007-reverse-integer](https://github.com/jruthik271/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/jruthik271/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/jruthik271/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/jruthik271/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jruthik271/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jruthik271/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
