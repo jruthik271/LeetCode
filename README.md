@@ -127,6 +127,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/jruthik271/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/jruthik271/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/jruthik271/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/jruthik271/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
