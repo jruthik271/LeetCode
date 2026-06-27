@@ -71,6 +71,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jruthik271/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/jruthik271/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/jruthik271/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jruthik271/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -157,6 +158,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/jruthik271/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jruthik271/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -180,6 +182,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/jruthik271/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jruthik271/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jruthik271/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/jruthik271/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
