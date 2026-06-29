@@ -78,6 +78,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1732-find-the-highest-altitude](https://github.com/jruthik271/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jruthik271/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jruthik271/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jruthik271/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jruthik271/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jruthik271/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -169,6 +170,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0657-robot-return-to-origin](https://github.com/jruthik271/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/jruthik271/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jruthik271/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jruthik271/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jruthik271/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jruthik271/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
