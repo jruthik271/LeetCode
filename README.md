@@ -121,6 +121,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0001-two-sum](https://github.com/jruthik271/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jruthik271/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/jruthik271/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jruthik271/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jruthik271/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -172,6 +173,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0657-robot-return-to-origin](https://github.com/jruthik271/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/jruthik271/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jruthik271/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jruthik271/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jruthik271/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jruthik271/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -203,4 +205,8 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jruthik271/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
