@@ -89,6 +89,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3637-trionic-array-i](https://github.com/jruthik271/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/jruthik271/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
