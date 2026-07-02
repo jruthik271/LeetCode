@@ -86,6 +86,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2574-left-and-right-sum-differences](https://github.com/jruthik271/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jruthik271/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -139,6 +140,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0371-sum-of-two-integers](https://github.com/jruthik271/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/jruthik271/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jruthik271/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jruthik271/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/jruthik271/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Prefix Sum
@@ -156,6 +158,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0657-robot-return-to-origin](https://github.com/jruthik271/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/jruthik271/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/jruthik271/LeetCode/tree/main/3379-transformed-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/jruthik271/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -212,4 +215,8 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jruthik271/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 <!---LeetCode Topics End-->
