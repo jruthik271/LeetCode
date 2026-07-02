@@ -89,6 +89,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3379-transformed-array](https://github.com/jruthik271/LeetCode/tree/main/3379-transformed-array/) | Easy |
 | [3637-trionic-array-i](https://github.com/jruthik271/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/jruthik271/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -156,6 +157,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/jruthik271/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3379-transformed-array](https://github.com/jruthik271/LeetCode/tree/main/3379-transformed-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/jruthik271/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jruthik271/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
