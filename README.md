@@ -201,6 +201,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jruthik271/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jruthik271/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
