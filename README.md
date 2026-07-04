@@ -93,6 +93,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [3379-transformed-array](https://github.com/jruthik271/LeetCode/tree/main/3379-transformed-array/) | Easy |
 | [3637-trionic-array-i](https://github.com/jruthik271/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/jruthik271/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3719-longest-balanced-subarray-i](https://github.com/jruthik271/LeetCode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jruthik271/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jruthik271/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jruthik271/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3719-longest-balanced-subarray-i](https://github.com/jruthik271/LeetCode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/jruthik271/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/jruthik271/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3719-longest-balanced-subarray-i](https://github.com/jruthik271/LeetCode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +223,12 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/jruthik271/LeetCode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/jruthik271/LeetCode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 <!---LeetCode Topics End-->
