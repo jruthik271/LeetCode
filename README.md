@@ -100,6 +100,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jruthik271/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/jruthik271/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/jruthik271/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/jruthik271/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jruthik271/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -163,6 +164,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0001-two-sum](https://github.com/jruthik271/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jruthik271/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/jruthik271/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/jruthik271/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jruthik271/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -229,6 +231,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0075-sort-colors](https://github.com/jruthik271/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/jruthik271/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/jruthik271/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jruthik271/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jruthik271/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
