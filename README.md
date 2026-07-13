@@ -143,6 +143,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/jruthik271/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
