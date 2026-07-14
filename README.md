@@ -113,6 +113,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jruthik271/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2951-find-the-peaks](https://github.com/jruthik271/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -144,6 +145,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/jruthik271/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [2951-find-the-peaks](https://github.com/jruthik271/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
