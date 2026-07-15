@@ -192,6 +192,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1344-angle-between-hands-of-a-clock](https://github.com/jruthik271/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jruthik271/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jruthik271/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jruthik271/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/jruthik271/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Matrix
@@ -264,4 +265,8 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jruthik271/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jruthik271/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/jruthik271/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jruthik271/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
