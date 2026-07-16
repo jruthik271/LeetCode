@@ -131,6 +131,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/jruthik271/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/jruthik271/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jruthik271/LeetCode/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Counting Sort
@@ -188,6 +189,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0009-palindrome-number](https://github.com/jruthik271/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/jruthik271/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+| [0342-power-of-four](https://github.com/jruthik271/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/jruthik271/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/jruthik271/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jruthik271/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -275,4 +277,8 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jruthik271/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jruthik271/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/jruthik271/LeetCode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
