@@ -99,6 +99,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jruthik271/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1260-shift-2d-grid](https://github.com/jruthik271/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/jruthik271/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/jruthik271/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/jruthik271/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -205,6 +206,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/jruthik271/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -225,6 +227,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/jruthik271/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/jruthik271/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1260-shift-2d-grid](https://github.com/jruthik271/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1518-water-bottles](https://github.com/jruthik271/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/jruthik271/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
