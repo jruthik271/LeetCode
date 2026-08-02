@@ -198,6 +198,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1518-water-bottles](https://github.com/jruthik271/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jruthik271/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/jruthik271/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jruthik271/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jruthik271/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jruthik271/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -252,6 +253,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jruthik271/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jruthik271/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/jruthik271/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jruthik271/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
