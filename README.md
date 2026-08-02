@@ -97,6 +97,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0066-plus-one](https://github.com/jruthik271/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/jruthik271/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/jruthik271/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jruthik271/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1260-shift-2d-grid](https://github.com/jruthik271/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -193,6 +194,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [0223-rectangle-area](https://github.com/jruthik271/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0342-power-of-four](https://github.com/jruthik271/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/jruthik271/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/jruthik271/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/jruthik271/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jruthik271/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1518-water-bottles](https://github.com/jruthik271/LeetCode/tree/main/1518-water-bottles/) | Easy |
@@ -246,6 +248,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/jruthik271/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/jruthik271/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/jruthik271/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/jruthik271/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/jruthik271/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
