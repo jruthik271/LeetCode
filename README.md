@@ -142,6 +142,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/jruthik271/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/jruthik271/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Divide And Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +257,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jruthik271/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jruthik271/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/jruthik271/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/jruthik271/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jruthik271/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -269,6 +271,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jruthik271/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jruthik271/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jruthik271/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/jruthik271/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/jruthik271/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/jruthik271/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
