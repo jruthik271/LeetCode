@@ -124,6 +124,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [3637-trionic-array-i](https://github.com/jruthik271/LeetCode/tree/main/3637-trionic-array-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/jruthik271/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/jruthik271/LeetCode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/jruthik271/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/jruthik271/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jruthik271/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -181,6 +182,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [3120-count-the-number-of-special-characters-i](https://github.com/jruthik271/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jruthik271/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/jruthik271/LeetCode/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/jruthik271/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +261,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jruthik271/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/jruthik271/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/jruthik271/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jruthik271/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
