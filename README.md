@@ -154,6 +154,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1291-sequential-digits](https://github.com/jruthik271/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2951-find-the-peaks](https://github.com/jruthik271/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jruthik271/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1518-water-bottles](https://github.com/jruthik271/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jruthik271/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jruthik271/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/jruthik271/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jruthik271/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jruthik271/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
