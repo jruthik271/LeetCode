@@ -119,6 +119,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jruthik271/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2951-find-the-peaks](https://github.com/jruthik271/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jruthik271/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jruthik271/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/jruthik271/LeetCode/tree/main/3379-transformed-array/) | Easy |
@@ -180,6 +181,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jruthik271/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/jruthik271/LeetCode/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jruthik271/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jruthik271/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jruthik271/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jruthik271/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -262,6 +264,7 @@ print(sol.twoSum([2, 7, 11, 15], 9)) # Output: [0, 1]
 | [1833-maximum-ice-cream-bars](https://github.com/jruthik271/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jruthik271/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/jruthik271/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jruthik271/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jruthik271/LeetCode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jruthik271/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/jruthik271/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
